@@ -1,0 +1,73 @@
+body {
+  font-family: "Capriola", sans-serif;
+  background-image: url(download.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 90%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f0ebf7;
+  box-shadow: 0 2px 4px rgba(142, 70, 170, 0.1);
+  border-radius: 8px;
+}
+::-webkit-scrollbar {
+  width: 12px;
+  background-color: #fff;
+  border-left: 2px solid #eee;
+  box-shadow: 0px 0px 20px 0px #ffffff83 inset;
+}
+::-webkit-scrollbar-thumb {
+  background-color: rgba(169, 146, 192, 0.7);
+  box-shadow: 0px 0px 10px 0px #ffffff83 inset;
+  border-radius: 10px;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+h2 {
+  text-align: center;
+  color: #333;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+
+/* Customize Table */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+table th,
+table td {
+  padding: 12px;
+  text-align: left;
+  border: 1px solid #dccceb;
+}
+
+table tr:nth-child(even) {
+  background-color: #e5d6f8;
+}
+
+/* Customize Chart */
+.chart-container {
+  position: relative;
+  margin: 0 auto;
+  height: 400px;
+  width: 80%;
+  max-width: 600px;
+}
+.myicon{
+  color:rgba(62, 137, 191,1);
+}
