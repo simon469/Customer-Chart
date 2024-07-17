@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/customer-chart/static/css/main.6e516902.css",
+    "main.js": "/customer-chart/static/js/main.4d21eb93.js",
+    "index.html": "/customer-chart/index.html",
+    "main.6e516902.css.map": "/customer-chart/static/css/main.6e516902.css.map",
+    "main.4d21eb93.js.map": "/customer-chart/static/js/main.4d21eb93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e516902.css",
+    "static/js/main.4d21eb93.js"
+  ]
+}
